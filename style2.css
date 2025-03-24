@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+/*  font-family: "Playfair Display", serif; */
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+/* font-family: "Spicy Rice", serif;*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #FFCC33;
+}
+
+body {
+    background-image: linear-gradient(180deg, black 10%, rgb(172, 77, 32));
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+
+img {
+    height: 200px;
+}
+
+a {
+    text-decoration: overline;
+}
+
+.tudo {
+    font-family: "Playfair Display", serif;
+    font-size: 38px;
+    font-weight: 900px;
+}
+
+.back1 {
+    background-color: #FFCC33;
+    width: 100vw;
+    position: relative;
+    top: 35px;
+    height: 30px;
+}
+
+.back2 {
+    background-color: #FFCC33;
+    width: 100vw;
+    position: relative;
+    top: 300px;
+    height: 30px;
+}
+
+.img1 {
+    position: relative;
+    left: 800px;
+    bottom: 46px;
+    height: 264px;
+}
+
+#link1 {
+    cursor: pointer;
+    position: relative;
+    top: 119px;
+    left: 130px;
+}
+
+#link2 {
+    cursor: pointer;
+    position: relative;
+    top: 119px;
+    left: 275px;
+}
+
+#link3 {
+    cursor: pointer;
+    position: relative;
+    top: 119px;
+    left: 780px;
+}
+
+#link4 {
+    cursor: pointer;
+    position: relative;
+    top: 119px;
+    left: 1000px;
+}
+
+#link1:hover {
+    color: red;
+}
+
+#link2:hover {
+    color: red;
+
+}
+
+#link3:hover {
+    color: red;
+}
+
+#link4:hover {
+    color: red;
+}
+
+video {
+    height: 300px;
+    position: relative;
+    position: relative;
+    top: 50px;
+    left: 150px;
+
+}
+
+.titulo1 {
+    font-family: "Spicy Rice", serif;
+    Color: white;
+    position: relative;
+    top: 1px;
+    left: 90px;
+    font-size: 70px;
+    width: 1000px;
+    letter-spacing: 4px;
+    display: inline-block;
+    text-shadow: 5px 2px 12px black;
+
+}
+
+
+video {
+    position: relative;
+    display: inline-block;
+    height: 400px;
+    left: 100px;
+    top:110px;
+
+}
+
+.back3 {
+    background-color:  #FFCC33;
+    width: 950px;
+    position: relative;
+    top: 510px;
+    height: 10px;
+    left: 38px;
+
+}
+.back4 {
+    background-color:  #FFCC33;
+    width: 950px;
+    position: relative;
+    top: 200px;
+    height: 10px;
+    left: 38px;
+}
+.back5 {
+    background-color:  #FFCC33;
+    width: 711.1px;
+    position: relative;
+    top: 119.5px;
+    height: 10px;
+    left: 1109px;
+}
+
+.back6 {
+    background-color:  #FFCC33;
+    width: 711.1px;
+    position: relative;
+    top: 520px;
+    height: 10px;
+    left: 1109px;
+
+}
+.back7 {
+    background-color:  #FFCC33;
+    position: relative;
+    left: 1090px;
+    width: 300px;
+    top: 400px;
+    height: px;
+
+
+}
